@@ -10,5 +10,5 @@
 
   
 
-![Printscreen da minha página desenvolvida durante as aulas para criação do projeto](C:\Projetos\Instagram\imgSimbolos\TelaInicial.png)
+![Printscreen da minha página desenvolvida durante as aulas para criação do projeto](C:\Projetos\Instagram\imgSimbolos\TelaInicial.png "Tela Inicial da página do Instagram")
 
