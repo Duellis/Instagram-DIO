@@ -1,8 +1,8 @@
-# Projeto: Recriando a página inicial do Instagram<img src="C:\Projetos\Instagram\imgSimbolos\simbolo Instagram.png" style="zoom:15%;" />
+# Projeto: Recriando a página inicial do Instagram<img src="https://github.com/Duellis/Instagram-DIO/blob/master/Instagram/imgSimbolos/simbolo%20Instagram.png" style="zoom:15%;" />
 
 
 
-### <img src="C:\Projetos\Instagram\imgSimbolos\simbolo digital innovation one.png" style="zoom:18%;" /> - Digital Innovation One - Bootcamp HTML Web Developer.
+### <img src="https://github.com/Duellis/Instagram-DIO/blob/master/Instagram/imgSimbolos/simbolo%20digital%20innovation%20one.png" style="zoom:18%;" /> - Digital Innovation One - Bootcamp HTML Web Developer.
 
 
 
